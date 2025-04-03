@@ -19,7 +19,7 @@ I used the following script to "fix" those references, and it's the
 modified files that are included in `ext/macos`. Otherwise, the
 `ext` folder is simply a copy of the IBM-provided module.
 
-```
+```ruby
 # frozen_string_literal: true
 
 # This code is heavily based on https://gist.github.com/matthew-brett/ec2fdd022f478b95ed6d18cf45bc7c62
